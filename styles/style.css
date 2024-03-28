@@ -43,6 +43,7 @@ img, svg{
 main{
   display: grid;
   place-items: center;
+  min-height: 100vh;
 
   font: var(--font-base);
   color: var(--clr-neutral-gray);
